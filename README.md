@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gauravanurag36@gmail.com**
 
-- ⚡ Fun fact **You can never overthink something.**
+- ⚡ Fun fact **No good deed goes Unpunished.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
