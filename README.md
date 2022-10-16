@@ -23,6 +23,8 @@
 <a href="https://instagram.com/its.the.anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.the.anurag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itstheanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itstheanurag" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itstheanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itstheanurag" height="30" width="40" /></a>
+<a href="https://codepen.io/itstheanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itstheanurag" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsthenaurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsthenaurag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
