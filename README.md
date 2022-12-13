@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/itstheanurag" target="blank"><img src="https://img.shields.io/twitter/follow/itstheanurag?logo=twitter&style=for-the-badge" alt="itstheanurag" /></a> </p>
 
-- 🌱 I’m currently learning **React and java**
+- 🌱 I’m currently learning **Backend Development in Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itstheanurag](https://github.com/itstheanurag)
 
-- 💬 Ask me about **Node.js, Express, Javascript, Html, Css**
+- 💬 Ask me about **Node.js, Express, Nestjs, TypeScript, Javascript, Html, Css**
 
 - 📫 How to reach me **gauravanurag36@gmail.com**
 
