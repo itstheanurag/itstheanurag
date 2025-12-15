@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate software developer who loves crafting modern, scalable, and user-centric applications.</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itstheanurag&label=Profile%20views&color=0e75b6&style=flat" alt="itstheanurag" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -33,12 +30,6 @@
 - 💬 Ask me about **NestJS, Express, Node.js, TypeScript, Git, or anything backend-related.**  
 - 📫 Reach me on [X (Twitter)](https://x.com/Itstheanurag) — always up for a dev chat.  
 - ⚡ Fun fact: **I debug faster with lo-fi beats and cold coffee.** ☕🎧  
-
----
-
-### 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
