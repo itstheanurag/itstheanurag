@@ -1,13 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Gaurav%20👋&fontSize=70&animation=fadeIn" />
 
-  <h3> 🚀 Full-Stack Developer | Backend Architect | Open Source Contributor </h3>
+  <h3> Full-Stack Developer | Backend Architect | Open Source Contributor </h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+scalable+microservices;Node.js+%26+NestJS+Expert;Exploring+the+power+of+Golang;Building+Hanma+Utility+Library;Lo-fi+beats+%26+Cold+Coffee+fueled" alt="Typing SVG" />
-
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itstheanurag&theme=algolia&column=7" alt="trophies" /></a>
-  </p>
   
   <p align="center">
     <a href="https://holopin.io/@itstheanurag">
@@ -18,7 +14,7 @@
 
 ---
 
-### ⚡ Featured Project: Hanma
+### Featured Project: Hanma
 <div align="center">
   <table border="0">
     <tr>
@@ -40,7 +36,7 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
 - 🛠️ **Current Focus:** Scaling backend architectures with **NestJS** and **Golang**.
 - ✍️ **Writing:** I share deep dives on clean code at [Medium (@itstheanurag)](https://medium.com/@itstheanurag).
@@ -50,7 +46,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Specialized Tools
+### Tech Stack & Specialized Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -61,14 +57,14 @@
 
 ---
 
-### 📈 Open Source Contribution Activity
+### Open Source Contribution Activity
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itstheanurag&theme=tokyo-night&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/itstheanurag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
