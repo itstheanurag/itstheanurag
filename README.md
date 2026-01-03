@@ -57,11 +57,17 @@
 
 ---
 
-### Open Source Contribution Activity
+### Activity & Stats
+
+#### GitHub Contributions
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itstheanurag&theme=tokyo-night&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
+#### LeetCode Progress
+<p align="center">
+  <img width="48%" src="https://leetcard.jacoblin.cool/itstheanurag?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Activity" />
+</p>
 ---
 
 ### Connect With Me
@@ -69,6 +75,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/itstheanurag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Itstheanurag"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://leetcode.com/u/itstheanurag/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://medium.com/@itstheanurag"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://itstheanurag.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
