@@ -12,29 +12,22 @@
   </p>
 </div>
 
----
+### Projects
 
-### Featured Project: Hanma
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://www.npmjs.com/package/hanma">
-          <img src="https://img.shields.io/badge/Hanma-NPM_Package-CB3837?style=for-the-badge&logo=npm" alt="Hanma NPM" /><br/>
-          <b>High-performance utility library</b>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://hanma-a2n.pages.dev/">
-          <img src="https://img.shields.io/badge/Live_Docs-Visit_Website-44CC11?style=for-the-badge&logo=vercel" alt="Hanma Website" /><br/>
-          <b>Developer Documentation</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+**Hanma**  
+High-performance utility library  
+[![npm](https://img.shields.io/badge/hanma-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/hanma)
+[![docs](https://img.shields.io/badge/docs-live-44CC11?style=flat-square&logo=vercel)](https://hanma-a2n.pages.dev/)
 
----
+**Scaffoldor**  
+Project scaffolding utility  
+[![npm](https://img.shields.io/badge/scaffoldor-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/scaffoldor)
+[![docs](https://img.shields.io/badge/docs-live-44CC11?style=flat-square&logo=vercel)](https://scaffoldor.vercel.app/)
+
+**Keyway**  
+Encrypted file sharing over WebRTC  
+[![live](https://img.shields.io/badge/keyway-live_app-5865F2?style=flat-square&logo=webrtc)](https://keyway.onrender.com/)
+
 
 ### About Me
 
