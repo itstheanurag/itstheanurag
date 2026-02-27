@@ -14,20 +14,25 @@
 
 ### Projects
 
-**Hanma**  
-High-performance utility library  
-[![npm](https://img.shields.io/badge/hanma-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/hanma)
-[![docs](https://img.shields.io/badge/docs-live-44CC11?style=flat-square&logo=vercel)](https://hanma-a2n.pages.dev/)
+- **hanma** — High-performance JavaScript utility library focused on developer ergonomics and runtime efficiency.  
+  npm: https://www.npmjs.com/package/hanma · docs: https://hanma-a2n.pages.dev/
 
-**Scaffoldor**  
-Project scaffolding utility  
-[![npm](https://img.shields.io/badge/scaffoldor-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/scaffoldor)
-[![docs](https://img.shields.io/badge/docs-live-44CC11?style=flat-square&logo=vercel)](https://scaffoldor.vercel.app/)
+- **scaffoldor** — CLI-based project scaffolding tool for rapidly bootstrapping production-ready applications.  
+  npm: https://www.npmjs.com/package/scaffoldor · docs: https://scaffoldor.vercel.app/
 
-**Keyway**  
-Encrypted file sharing over WebRTC  
-[![live](https://img.shields.io/badge/keyway-live_app-5865F2?style=flat-square&logo=webrtc)](https://keyway.onrender.com/)
+- **keyway** — End-to-end encrypted file sharing system built on WebRTC for peer-to-peer secure transfers.  
+  live: https://keyway.onrender.com/
 
+### Random projects
+
+- **chat-app** — Real-time chat application built with Express and Vite to explore WebSockets, state synchronization, and event-driven backend communication.  
+  https://github.com/itstheanurag/chat_app
+
+- **chess** — Browser-based chess implementation created to learn React architecture and WebSocket-based multiplayer game handling.  
+  https://github.com/itstheanurag/chess
+
+- **portfolio** — Personal developer portfolio built with Next.js focusing on modern frontend architecture and performance optimization.  
+  https://itsanurag.in
 
 ### About Me
 
