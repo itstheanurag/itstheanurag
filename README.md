@@ -23,6 +23,9 @@
 - **keyway** — End-to-end encrypted file sharing system built on WebRTC for peer-to-peer secure transfers.  
   live: https://keyway.onrender.com/
 
+- **CodeCript** — A list of everything that I know + more from the community, curated in a docs website formatted to be helpful in the software engineering job interview.
+  live: https://codecript.pages.dev/
+
 ### Random projects
 
 - **chat-app** — Real-time chat application built with Express and Vite to explore WebSockets, state synchronization, and event-driven backend communication.  
@@ -31,7 +34,7 @@
 - **chess** — Browser-based chess implementation created to learn React architecture and WebSocket-based multiplayer game handling.  
   https://github.com/itstheanurag/chess
 
-- **portfolio** — Personal developer portfolio built with Next.js focusing on modern frontend architecture and performance optimization.  
+- **portfolio** — Personal developer portfolio built with Next.js, focusing on modern frontend architecture and performance optimization.  
   https://itsanurag.in
 
 ### About Me
